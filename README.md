@@ -24,7 +24,8 @@ The project analyzes flight–pairing datasets, formulates crew pairing as an SC
 
 ---
 
-## 🛠Methods & Tools
+## Methods & Tools
+
 - **Optimization:** Set Covering, Integer Linear Programming, Genetic Algorithm  
 - **Libraries:** PuLP, DEAP, NumPy, Pandas, Matplotlib, Seaborn  
 - **Visualization:** Convergence plots, cost distribution histograms, flight coverage bar charts, Gantt charts  
